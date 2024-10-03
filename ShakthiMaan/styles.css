@@ -1,0 +1,153 @@
+body {
+  margin: 0px;
+  border: 0px;
+  background: linear-gradient(to right, #302f2c, #3730A3);
+}
+
+.navbar {
+  margin: 10px;
+  display: flex;
+}
+
+#nav_img {
+  width: 20%;
+  max-width: 50px;
+  max-height: 50px;
+  margin-left: 8px;
+}
+
+#nav_txt {
+  width: 80%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 800;
+  text-align: right;
+  color: white;
+  margin-top: 7px;
+  margin-left: 470px;
+  word-spacing: 10px;
+}
+
+.shakthimaan-photo {
+  display: flex;
+}
+
+#sp-1 {
+  max-width: 70%;
+}
+
+#shakthimaan-img {
+  max-width: 850px;
+  max-height: 700px;
+  float: right;
+}
+
+#sp-2 {
+  margin-top: 100px;
+  max-width: 30%;
+}
+
+#shakthimaan-txt-img {
+  margin-top: 0px;
+  margin-left: 30px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  max-width: 600px;
+  max-height: 400px;
+}
+
+#shakthimaan-name-text-img {
+  max-width: 500px;
+  max-height: 500px;
+}
+
+.id-card {
+  margin-left: 0px;
+  padding-left: 0px;
+  border-left: 0px;
+  display: flex;
+}
+
+#id-img {
+  margin-left: 0px;
+  padding-left: 0px;
+  border-left: 0px;
+  max-width: 800px;
+  max-height: 800px;
+  width: 50%;
+}
+
+
+#id-scroll {
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 50%;
+  margin-top: 40px;
+}
+
+#id-scroll-img {
+  max-width: 650px;
+  max-height: 650px;
+}
+
+.villain_list {
+  background-color: red;
+}
+
+#villain_list_img {
+  border-radius: 20px;
+  margin-bottom: 40px;
+  max-width: 1000px;
+  max-height: 1000px;
+}
+
+.connect {
+  display: flex;
+  margin: 0px 30px 60px 30px;
+}
+
+#connect_text {
+  text-align: justify;
+  margin-left: 210px;
+  width: 70%;
+  font-family: 'Lexend', 'sans-serif';
+  font-size: large;
+  font-weight: 300;
+}
+
+.connect-form {
+  display: flex;
+  margin: 20px 50px 20px 240px;
+}
+
+#form-boxes {
+  margin-left: 40px;
+}
+
+#form-out-texts {
+  color: aliceblue;
+  font-family: 'Lexend', 'sans-serif';
+  font-size: large;
+  font-weight: 300;
+  margin-right: 10px;
+  padding-bottom: 50px;
+}
+
+#form-box {
+  border-radius: 0px;
+  height: 24px;
+}
+
+#submit-form {
+  margin-left: 280px;
+  width: 170px;
+  height: 45px;
+  background-color: transparent;
+  color: aliceblue;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: larger;
+  border-color: aliceblue;
+}
+
+#submit-form:hover {
+  background-color: #fe1717;
+}
